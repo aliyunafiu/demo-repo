@@ -1,3 +1,3 @@
 # Demo
 
-my first repository for trainin
+my first repository for trainig
